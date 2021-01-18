@@ -1,0 +1,25 @@
+img{
+    width: 40%;
+}
+body{
+    background: linear-gradient(yellow 30%, green 50%);
+        text-align:center;
+        
+}
+h1{
+    color:firebrick;
+}
+#myCarosel{
+    background-color: red;
+}
+#myCarousel img{
+    height: 150px;
+    margin-top: 35px;
+}
+.carousel-inner p{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
+    
